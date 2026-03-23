@@ -5,24 +5,24 @@ namespace Reka
     class River
     {
         public string name;
-        public double basinArea;
+        public double area;
         public double length;
         public River()
         {
             name = "";
-            basinArea = 0;
+            area = 0;
             length = 0;
         }
-        public River(string name, double basinArea, double length)
+        public River(string name, double area, double length)
         {
             this.name = name;
-            this.basinArea = basinArea;
+            this.area = area;
             this.length = length;
         }
         public void Print()
         {
             Console.WriteLine($"Название: {name}");
-            Console.WriteLine($"Площадь бассейна: {basinArea} кв.км.");
+            Console.WriteLine($"Площадь бассейна: {area} кв.км.");
             Console.WriteLine($"Протяженность: {length} км.");
             Console.WriteLine();
         }
@@ -33,7 +33,7 @@ namespace Reka
         {
             River r1 = new River();
             r1.name = "Нил";
-            r1.basinArea = 3400000;
+            r1.area = 3400000;
             r1.length = 6650;
             r1.Print();
             River r2 = new River("Амазонка", 7050000, 6400);
