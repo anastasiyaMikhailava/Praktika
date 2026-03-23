@@ -1,0 +1,14 @@
+D:\ВИЖЛА\3 курс\Praktika\Praktika\bin\Debug\net9.0\Praktika.exe
+D:\ВИЖЛА\3 курс\Praktika\Praktika\bin\Debug\net9.0\Praktika.deps.json
+D:\ВИЖЛА\3 курс\Praktika\Praktika\bin\Debug\net9.0\Praktika.runtimeconfig.json
+D:\ВИЖЛА\3 курс\Praktika\Praktika\bin\Debug\net9.0\Praktika.dll
+D:\ВИЖЛА\3 курс\Praktika\Praktika\bin\Debug\net9.0\Praktika.pdb
+D:\ВИЖЛА\3 курс\Praktika\Praktika\obj\Debug\net9.0\Praktika.GeneratedMSBuildEditorConfig.editorconfig
+D:\ВИЖЛА\3 курс\Praktika\Praktika\obj\Debug\net9.0\Praktika.AssemblyInfoInputs.cache
+D:\ВИЖЛА\3 курс\Praktika\Praktika\obj\Debug\net9.0\Praktika.AssemblyInfo.cs
+D:\ВИЖЛА\3 курс\Praktika\Praktika\obj\Debug\net9.0\Praktika.csproj.CoreCompileInputs.cache
+D:\ВИЖЛА\3 курс\Praktika\Praktika\obj\Debug\net9.0\Praktika.dll
+D:\ВИЖЛА\3 курс\Praktika\Praktika\obj\Debug\net9.0\refint\Praktika.dll
+D:\ВИЖЛА\3 курс\Praktika\Praktika\obj\Debug\net9.0\Praktika.pdb
+D:\ВИЖЛА\3 курс\Praktika\Praktika\obj\Debug\net9.0\Praktika.genruntimeconfig.cache
+D:\ВИЖЛА\3 курс\Praktika\Praktika\obj\Debug\net9.0\ref\Praktika.dll
