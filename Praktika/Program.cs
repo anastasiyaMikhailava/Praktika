@@ -28,7 +28,7 @@ namespace Reka
         }
         public override string ToString()
         {
-            return $"Река: {name} имеет площадь бассейна : {area} km2 с протяженностью: {length} km";
+            return $"Река: {name} имеет площадь бассейна : {area} км.кв. с протяженностью в {length} км.";
         }
     }
     class Program
