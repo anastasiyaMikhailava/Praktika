@@ -9,7 +9,7 @@ namespace Reka
         public double length;
         public River()
         {
-            name = "Not specified";
+            name = "";
             basinArea = 0;
             length = 0;
         }
@@ -21,9 +21,9 @@ namespace Reka
         }
         public void Print()
         {
-            Console.WriteLine($"Name: {name}");
-            Console.WriteLine($"Basin area: {basinArea} km2");
-            Console.WriteLine($"Length: {length} km");
+            Console.WriteLine($"Название: {name}");
+            Console.WriteLine($"Площадь бассейна: {basinArea} кв.км.");
+            Console.WriteLine($"Протяженность: {length} км.");
             Console.WriteLine();
         }
     }
@@ -32,11 +32,11 @@ namespace Reka
         static void Main(string[] args)
         {
             River r1 = new River();
-            r1.name = "Nile";
+            r1.name = "Нил";
             r1.basinArea = 3400000;
             r1.length = 6650;
             r1.Print();
-            River r2 = new River("Amazon", 7050000, 6400);
+            River r2 = new River("Амазонка", 7050000, 6400);
             r2.Print();
             Console.ReadLine();
         }
