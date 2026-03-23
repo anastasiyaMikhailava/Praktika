@@ -26,6 +26,10 @@ namespace Reka
             Console.WriteLine($"Протяженность: {length} км.");
             Console.WriteLine();
         }
+        public override string ToString()
+        {
+            return $"Река: {name} имеет площадь бассейна : {area} km2 с протяженностью: {length} km";
+        }
     }
     class Program
     {

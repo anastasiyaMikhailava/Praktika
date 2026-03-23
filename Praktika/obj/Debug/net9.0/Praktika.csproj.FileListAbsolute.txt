@@ -12,3 +12,4 @@ D:\ВИЖЛА\3 курс\Praktika\Praktika\obj\Debug\net9.0\refint\Praktika.dll
 D:\ВИЖЛА\3 курс\Praktika\Praktika\obj\Debug\net9.0\Praktika.pdb
 D:\ВИЖЛА\3 курс\Praktika\Praktika\obj\Debug\net9.0\Praktika.genruntimeconfig.cache
 D:\ВИЖЛА\3 курс\Praktika\Praktika\obj\Debug\net9.0\ref\Praktika.dll
+D:\ВИЖЛА\3 курс\Praktika\Praktika\obj\Debug\net9.0\Praktika.sourcelink.json
